@@ -1,2 +1,2 @@
-FROM hwdsl2/ipsec-vpn-server
+FROM mcr.microsoft.com/windows:20H2
 privileged: true
